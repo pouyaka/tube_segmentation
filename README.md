@@ -23,7 +23,7 @@ pip install -r requirements.txt
 The dataset used for training is available for download: [Google drive]()
 
 ## Pretrained Networks
-pretrained networks can be downloaded and put in `ouputs` folder: [Google drive]()
+pretrained networks can be downloaded and put in `outputs` folder: [Google drive]()
 
 ## Train
 
