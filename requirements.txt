@@ -1,0 +1,8 @@
+albumentations==1.3.0
+matplotlib==3.5.2
+numpy==1.23.1
+opencv_python_headless==4.5.5.62
+scikit_learn==1.2.1
+scipy==1.9.3
+segmentation_models_pytorch==0.2.1
+torch==1.10.2+cu113
