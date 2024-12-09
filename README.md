@@ -25,9 +25,9 @@ pip install -r requirements.txt
 
 ## Download
 ### Dataset
-The dataset used for training is available for download: [Google drive](https://drive.google.com/file/d/1235SJ8eMAia7rXO3NmGS1fwYUdV5J009/view?usp=share_link)
+The dataset used for training is available for download upon [request](mailto:afakhrzadeh@gmail.com)
 ### Pretrained Networks
-pretrained networks can be downloaded and put in `outputs` folder: [Google drive]()
+pretrained networks can be downloaded and put in `outputs` folder: download upon [request](mailto:afakhrzadeh@gmail.com)
 
 ## Train
 Download the dataset first. Use `train.py` for training different networks. Find more details on different options for train with command line interfaces(CLI) help:
